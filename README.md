@@ -54,6 +54,8 @@ Use singular "they" whenever there's any lack of consent/consensus around anothe
 
 Use "ie." where the phrase "that is" (or similar) could be used in spoken conversation. Use "eg." for examples (eg. this). Use "note" for notes (not "nb", which stands for "nota bene" and I've only ever seen one person use because it's only two fewer characters and completely opaque if you aren't already familiar with it).
 
+Note that this means "ie." *may* be used to denote an example, if the example is being used *as a shorthand for the rule* (ie. the phrase "by which I mean" could precede it).
+
 Commas *may* be used to separate a statement like "ie." or "eg." instead of parentheses when said statement is the last statement in the sentence, eg. this one. This should only be used when said final statement is *not an extricable part of the sentence (ie. when it's not merely an elaboration or example, as this parenthetical statement is).
 
 ## Run-on sentences
