@@ -14,7 +14,54 @@ When natural syntax becomes *completely* unreadable to describe a complex constr
 
 ## Referring to punctuation and letters
 
-Where there is lack of consensus around a character's name (or other characters are included in a construct that includes such an ambiguous character, like `"." and ","`), refer to the character as a quoted string, ie. "." (instead of "period", "full stop", or "dot").
+In technical writing, where there is lack of consensus around a character's name (or other characters are included in a construct that includes such an ambiguous character, like `"." and ","`), refer to the character as a quoted string, ie. "." (instead of "period", "full stop", or "dot").
+
+In prose, these are the incredibly boring names I use for each character in a vacuum:
+
+- <code>`</code>: backtick
+- `~`: tilde
+- `!`: exclamation point
+- `@`: at-sign
+- `#`: hash (*not* "hashtag", hashtag refers to the construct of a hash *followed by a tag* thank you very much)
+- `$`: dollar sign
+- `%`: percent sign
+- `^`: caret
+- `&`: ampersand
+- `*`: asterisk
+- `(`: open parenthesis
+- `)`: close parenthesis
+- `[`: open square bracket
+- `]`: close square bracket
+- `{`: open curly brace
+- `}`: close curly brace
+- `<`: left angle
+- `>`: right angle
+- `-`: hyphen ([not a dash][dash], as I used to call it)
+- `_`: underscore
+- `=`: equals sign
+- `+`: plus
+- `'`: single quote
+- `"`: double quote
+- `|`: vertical bar
+- `/`: slash (I don't specify "forward" slash because [getting this backwards](https://xkcd.com/727/) is like thinking "R" and "N" are written "Я" and "И")
+- `\`: backslash
+- `?`: question mark
+- `:`: colon
+- `;`: semicolon
+- `,`: comma
+- `.`: period
+
+[dash]: https://en.wikipedia.org/wiki/Dash
+
+Amidst other characters, I use "dot" for `.` and "apostrophe" for `'`.
+
+## Whitespace and Punctuation
+
+[There is only one space after a period.][Bill Hill] There is no space before an exclamation point or question mark. Slashes separating alternative clauses are surrounded by spaces; slashes used in the sense of a "compound word" (where the words around the slash are being used to describe something that is neither one nor the other) are placed directly next to the words in question, without spaces.
+
+[Bill Hill]: https://channel9.msdn.com/Blogs/TheChannel9Team/Bill-Hill-There-is-only-one-space-after-a-period
+
+In lieu of a proper [dash][], I use hyphens surrounded by spaces - like this - to offset parenthetical statements, or to separate dashed clauses - like this.
 
 ## Referring to decades
 
