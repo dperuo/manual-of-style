@@ -103,7 +103,7 @@ Use "ie." where the phrase "that is" (or similar) could be used in spoken conver
 
 Note that this means "ie." *may* be used to denote an example, if the example is being used *as a shorthand for the rule* (ie. the phrase "by which I mean" could precede it).
 
-Commas *may* be used to separate a statement like "ie." or "eg." instead of parentheses when said statement is the last statement in the sentence, eg. this one. This should only be used when said final statement is *not an extricable part of the sentence (ie. when it's not merely an elaboration or example, as this parenthetical statement is).
+Commas *may* be used to separate a statement like "ie." or "eg." instead of parentheses when said statement is the last statement in the sentence, eg. this one. This should only be used when said final statement is *not an extricable part* of the sentence (ie. when it's not merely an elaboration or example, as this parenthetical statement is).
 
 ## Run-on sentences
 
