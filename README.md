@@ -63,10 +63,6 @@ Amidst other characters, I use "dot" for `.` and "apostrophe" for `'`.
 
 In lieu of a proper [dash][], I use hyphens surrounded by spaces - like this - to offset parenthetical statements, or to separate dashed clauses - like this.
 
-## Referring to decades
-
-Don't use apostrophes to refer to a span of years (eg. "1980s" instead of "1980's"). An apostrophe should only be used for the posessive of a singular year (eg. "2000's Bush v. Gore").
-
 ## Extended characters
 
 Use ASCII-range characters such as `"`, `'`, and `...` instead of smarter Unicode variants (like the ELLIPSIS character or left/right-facing quotes), except in non-plaintext environments where doing so requires additional work, or in character-count-constrained environments like Twitter when needing to fit "..." into one character.
@@ -78,6 +74,12 @@ Use *italics* (`<em>`) for emphasis *within a statement*. Use *bold* (`<strong>`
 ## Date notation
 
 Use [ISO 8601](https://xkcd.com/1179/). It's unambiguous, it's standardized, and it collates correctly in lexical order. It's basically perfect.
+
+## Referring to decades
+
+Don't use apostrophes to refer to a span of years (eg. "1980s" instead of "1980's"). An apostrophe should only be used for the posessive of a singular year (eg. "2000's Bush v. Gore").
+
+Always fully-qualify a year or decade by including its century (ie. "1920s" instead of "'20s"). At time of writing (early 2018), we're about two years out from a bunch of legacy writing on the excesses of "the twenties" becoming really ambiguous. This also makes it slightly easier to describe the span of years between 2000 and 2010 ("the noughties", as I call them).
 
 ## Emoji
 
